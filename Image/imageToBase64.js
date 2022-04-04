@@ -19,4 +19,3 @@ function preImageFile() {
     else{
         preImage.src = "";
     }                
-}

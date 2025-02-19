@@ -13,7 +13,8 @@
 
 
 # 工作电脑中如何修改git的提交用户名称和邮箱
-+ git    test
++ git    t1est
+
 
 
 # gitee 与 github 的同步问题
